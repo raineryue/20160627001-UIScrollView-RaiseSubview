@@ -496,6 +496,7 @@
 				D5B677291D21023300485455 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		D5B6772A1D21023300485455 /* Build configuration list for PBXNativeTarget "20160627001-UIScrollView-RaiseSubviewTests" */ = {
 			isa = XCConfigurationList;
@@ -504,6 +505,7 @@
 				D5B6772C1D21023300485455 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		D5B6772D1D21023300485455 /* Build configuration list for PBXNativeTarget "20160627001-UIScrollView-RaiseSubviewUITests" */ = {
 			isa = XCConfigurationList;
@@ -512,6 +514,7 @@
 				D5B6772F1D21023300485455 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
